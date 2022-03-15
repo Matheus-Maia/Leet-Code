@@ -1,0 +1,109 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="89">
+            <item index="0" class="java.lang.String" itemvalue="django-celery-beat" />
+            <item index="1" class="java.lang.String" itemvalue="traitlets" />
+            <item index="2" class="java.lang.String" itemvalue="django-bootstrap3" />
+            <item index="3" class="java.lang.String" itemvalue="django-colorful" />
+            <item index="4" class="java.lang.String" itemvalue="django-cors-middleware" />
+            <item index="5" class="java.lang.String" itemvalue="pyexcel-ods" />
+            <item index="6" class="java.lang.String" itemvalue="Babel" />
+            <item index="7" class="java.lang.String" itemvalue="djangorestframework-datatables" />
+            <item index="8" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="9" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="10" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="11" class="java.lang.String" itemvalue="MetPy" />
+            <item index="12" class="java.lang.String" itemvalue="cycler" />
+            <item index="13" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="14" class="java.lang.String" itemvalue="python-ldap" />
+            <item index="15" class="java.lang.String" itemvalue="snowballstemmer" />
+            <item index="16" class="java.lang.String" itemvalue="Js2Py" />
+            <item index="17" class="java.lang.String" itemvalue="Pygments" />
+            <item index="18" class="java.lang.String" itemvalue="certifi" />
+            <item index="19" class="java.lang.String" itemvalue="rest-condition" />
+            <item index="20" class="java.lang.String" itemvalue="docutils" />
+            <item index="21" class="java.lang.String" itemvalue="pyproj" />
+            <item index="22" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="23" class="java.lang.String" itemvalue="Markdown" />
+            <item index="24" class="java.lang.String" itemvalue="sphinxcontrib-websupport" />
+            <item index="25" class="java.lang.String" itemvalue="xlrd" />
+            <item index="26" class="java.lang.String" itemvalue="WeasyPrint" />
+            <item index="27" class="java.lang.String" itemvalue="django-simple-history" />
+            <item index="28" class="java.lang.String" itemvalue="django-oauth-toolkit" />
+            <item index="29" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="30" class="java.lang.String" itemvalue="tablib" />
+            <item index="31" class="java.lang.String" itemvalue="django-rest-swagger" />
+            <item index="32" class="java.lang.String" itemvalue="djangoajax" />
+            <item index="33" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="34" class="java.lang.String" itemvalue="django-appconf" />
+            <item index="35" class="java.lang.String" itemvalue="django-modeltranslation" />
+            <item index="36" class="java.lang.String" itemvalue="easy-thumbnails" />
+            <item index="37" class="java.lang.String" itemvalue="xarray" />
+            <item index="38" class="java.lang.String" itemvalue="odfpy" />
+            <item index="39" class="java.lang.String" itemvalue="django-dbbackup" />
+            <item index="40" class="java.lang.String" itemvalue="django-filter" />
+            <item index="41" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="42" class="java.lang.String" itemvalue="djangoql" />
+            <item index="43" class="java.lang.String" itemvalue="timezonefinder" />
+            <item index="44" class="java.lang.String" itemvalue="Pint" />
+            <item index="45" class="java.lang.String" itemvalue="model-bakery" />
+            <item index="46" class="java.lang.String" itemvalue="pyexcel-xls" />
+            <item index="47" class="java.lang.String" itemvalue="pyexcel-xlsx" />
+            <item index="48" class="java.lang.String" itemvalue="djangorestframework_simplejwt" />
+            <item index="49" class="java.lang.String" itemvalue="idna" />
+            <item index="50" class="java.lang.String" itemvalue="diff-match-patch" />
+            <item index="51" class="java.lang.String" itemvalue="django-image-cropping" />
+            <item index="52" class="java.lang.String" itemvalue="httplib2" />
+            <item index="53" class="java.lang.String" itemvalue="numpy" />
+            <item index="54" class="java.lang.String" itemvalue="requests" />
+            <item index="55" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="56" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="57" class="java.lang.String" itemvalue="jdcal" />
+            <item index="58" class="java.lang.String" itemvalue="alabaster" />
+            <item index="59" class="java.lang.String" itemvalue="zipp" />
+            <item index="60" class="java.lang.String" itemvalue="django-phonenumber-field" />
+            <item index="61" class="java.lang.String" itemvalue="urllib3" />
+            <item index="62" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="63" class="java.lang.String" itemvalue="django-adminlte2" />
+            <item index="64" class="java.lang.String" itemvalue="coverage" />
+            <item index="65" class="java.lang.String" itemvalue="uritemplate" />
+            <item index="66" class="java.lang.String" itemvalue="scipy" />
+            <item index="67" class="java.lang.String" itemvalue="six" />
+            <item index="68" class="java.lang.String" itemvalue="phonenumbers" />
+            <item index="69" class="java.lang.String" itemvalue="sphinx-rtd-theme" />
+            <item index="70" class="java.lang.String" itemvalue="Shapely" />
+            <item index="71" class="java.lang.String" itemvalue="django-select2" />
+            <item index="72" class="java.lang.String" itemvalue="imagesize" />
+            <item index="73" class="java.lang.String" itemvalue="packaging" />
+            <item index="74" class="java.lang.String" itemvalue="et-xmlfile" />
+            <item index="75" class="java.lang.String" itemvalue="pooch" />
+            <item index="76" class="java.lang.String" itemvalue="django-debug-toolbar" />
+            <item index="77" class="java.lang.String" itemvalue="chardet" />
+            <item index="78" class="java.lang.String" itemvalue="pandas" />
+            <item index="79" class="java.lang.String" itemvalue="Sphinx" />
+            <item index="80" class="java.lang.String" itemvalue="Unidecode" />
+            <item index="81" class="java.lang.String" itemvalue="Django" />
+            <item index="82" class="java.lang.String" itemvalue="django-colorfield" />
+            <item index="83" class="java.lang.String" itemvalue="django-timezone-field" />
+            <item index="84" class="java.lang.String" itemvalue="itypes" />
+            <item index="85" class="java.lang.String" itemvalue="pytz" />
+            <item index="86" class="java.lang.String" itemvalue="unicodecsv" />
+            <item index="87" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="88" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
