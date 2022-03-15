@@ -1,2 +1,2 @@
 # Leet-Code
-Repository of my Leet Code answers.
+Rpository destinated to improve logic and data structure algorithm knowledge and also share my solutions.
